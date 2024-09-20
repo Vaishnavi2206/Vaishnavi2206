@@ -1,3 +1,4 @@
+![logo](https://github.com/Vaishnavi2206/Vaishnavi2206/blob/main/coding-gif-1.gif)
 <h1 align="center">Hi 👋, I'm Vaishnavi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
